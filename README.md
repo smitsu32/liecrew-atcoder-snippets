@@ -2,6 +2,8 @@
 
 競技プログラミング（AtCoder）用の VS Code Python スニペットです。
 
+このスニペットは、[AtCoder のルール](https://info.atcoder.jp/entry/llm-rules-ja) に基づいて公開しています。
+
 ## 使い方
 
 VS Code で `Ctrl+Shift+P` →「Snippets: Configure Snippets」→「python」を選び、`python.json` の内容を貼り付けてください。
