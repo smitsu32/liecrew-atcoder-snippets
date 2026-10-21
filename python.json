@@ -50,6 +50,6 @@
 	},
 	"credits": { 
 		"prefix": "cre",
-		"body": "# このコードは事前作成した次のスニペットを利用して書いています：https://github.com/smitsu32/vscode-python-snippets"
+		"body": "# このコードは事前作成した次のスニペットを利用して書いています：https://github.com/smitsu32/liecrew-atcoder-snippets"
 	}
 }
