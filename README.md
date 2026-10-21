@@ -1,12 +1,12 @@
 # vscode-python-snippets
 
-競技プログラミング（AtCoder）用の VS Code Python スニペットです。
+競技プログラミング（AtCoder）用のVS Code Pythonスニペットです。
 
-このスニペットは、[AtCoder生成AI対策ルール - 20261014版](https://info.atcoder.jp/entry/llm-rules-ja) に基づいて公開しています。
+このスニペットは、[AtCoder生成AI対策ルール - 20261014版](https://info.atcoder.jp/entry/llm-rules-ja)に基づいて公開しています。
 
 ## 使い方
 
-VS Code で `Ctrl+Shift+P` →「Snippets: Configure Snippets」→「python」を選び、`python.json` の内容を貼り付けてください。
+VS Codeで`Ctrl+Shift+P`を押し、「Snippets: Configure Snippets」→「python」を選んで、`python.json`の内容を貼り付けてください。
 
 ## スニペット一覧
 
