@@ -2,7 +2,7 @@
 
 競技プログラミング（AtCoder）用の VS Code Python スニペットです。
 
-このスニペットは、[AtCoder のルール](https://info.atcoder.jp/entry/llm-rules-ja) に基づいて公開しています。
+このスニペットは、[AtCoder生成AI対策ルール - 20261014版](https://info.atcoder.jp/entry/llm-rules-ja) に基づいて公開しています。
 
 ## 使い方
 
