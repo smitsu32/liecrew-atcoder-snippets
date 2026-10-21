@@ -1,8 +1,8 @@
-# vscode-python-snippets
+# liecrew-atcoder-snippets
 
 競技プログラミング（AtCoder）用のVS Code Pythonスニペットです。
 
-このスニペットは、[AtCoder生成AI対策ルール - 20261014版](https://info.atcoder.jp/entry/llm-rules-ja)に基づいて公開しています。
+このスニペットは一部AIを用いて作成したため、念のため[AtCoder生成AI対策ルール - 20261014版](https://info.atcoder.jp/entry/llm-rules-ja)に基づいて公開しています。
 
 ## 使い方
 
